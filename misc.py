@@ -1,5 +1,7 @@
 #other functions we used for getting useful data
 
+#link to canva presentation
+#https://www.canva.com/design/DAGB-j1Vfck/jp4sek6QMrV3Eq7jJETpjA/view
 import pandas as pd
 import numpy as np
 import os
